@@ -1,0 +1,14 @@
+abc
+a1c
+a12c
+a123c
+aXc
+123
+abc123
+foo_bar
+foo-bar
+foo.bar
+^start
+end$
+[test]
+(test)
