@@ -13,3 +13,6 @@ clean:
 	rm -f *.o s21_grep
 
 re: clean all
+
+.PHONY: all clean re
+

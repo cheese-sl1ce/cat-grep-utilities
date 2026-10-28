@@ -1,0 +1,5 @@
+Hello from file2
+Second line
+hello again
+goodbye
+nothing here
